@@ -2,7 +2,7 @@ import AddTask from "./components/AddTask"
 import CompletedTasks from "./components/CompletedTasks"
 import Footer from "./components/Footer";
 import PendingTasks from "./components/PendingTasks"
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Header from "./components/Header";
 function App() {
